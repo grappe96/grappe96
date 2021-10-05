@@ -16,7 +16,7 @@ Hi There 👋👋 I'm a junior developer with experience in front-end developmen
 ### 🗂Projects
 [냉장고 식품 관리 모바일 App 유레까](https://github.com/grappe96/Eurekka) 📱
 
-[성격유형 검사(MBTI)를 이용한 삼성 제품 추천 Cloud Native 서비스 SSBTI](https://github.com/grappe96/SSBTI) (private) 🖥📱
+[성격유형 검사(MBTI)를 이용한 삼성 제품 추천 Cloud Native 서비스 SSBTI](https://github.com/SSBTI/SSBTI) 🖥📱
 
 [언택트 음악 공유 플랫폼 MuShRoom](https://github.com/grappe96/MuShRoom) 🖥
 
