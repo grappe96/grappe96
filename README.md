@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=8C9EFF&text=Junior%20Developer&fontColor=EFEBE9&fontSize=55)
 
-안녕하세요 👋👋 배움을 즐기는 프론트엔드 개발자 입니다.
+안녕하세요 👋👋 배움을 즐기는 신입 프론트엔드 개발자 입니다.
 
 ### 💻Tech Stack
 
@@ -10,11 +10,11 @@
 
 ---
 ### 🗂Projects
-[냉장고 식품 관리 모바일 App 유레까](https://github.com/grappe96/Eurekka) 📱
+[냉장고 속 식품 관리 크로스 플랫폼 App 유레까](https://github.com/grappe96/Eurekka) 📱
 
-[성격유형 검사(MBTI)를 이용한 삼성 제품 추천 Cloud Native 서비스 SSBTI](https://github.com/SSBTI/SSBTI) 🖥📱
+[성격유형 검사(MBTI)를 이용한 삼성 제품 추천 웹사이트 SSBTI](https://github.com/SSBTI/SSBTI) 🖥📱
 
-[언택트 음악 공유 플랫폼 MuShRoom](https://github.com/grappe96/MuShRoom) 🖥
+[비대면 음악 공유 웹사이트 MuShRoom](https://github.com/grappe96/MuShRoom) 🖥
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grappe96&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
